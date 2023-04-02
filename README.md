@@ -1,8 +1,8 @@
 # TechSoja 🌱
-Projeto de Pesquisa e Inovação em Análise e Desenvolvimento de software no SPTech School. 
+💻 Projeto de Pesquisa e Inovação em Análise e Desenvolvimento de software no SPTech School. 💻🧑‍🎓
 
 
-Somos um uma empresa que desenvolve soluções tecnológicas para o monitoramento da temperatura e umidade na armazenagem de soja.
+Somos um uma empresa que desenvolve soluções tecnológicas para o monitoramento da temperatura e umidade na armazenagem de soja.🌱
 
 As nossas soluções de análise de dados utilizam as seguintes tecnologias:
 
@@ -23,10 +23,10 @@ De acordo com nossos membros definimos as formas mais eficazes para alcançar os
 
   🙋 Aprendizado e Participação ativos;
 
-  ✍️Atitude empreendedora;
+  ✍️ Atitude empreendedora;
 
-  🗣️Comunicação-Não-Violenta;
+  🗣️ Comunicação-Não-Violenta;
 
-  🧑‍💻Atenção ao grupo, e-mail e Trello;
+  🧑‍💻 Atenção ao grupo, e-mail e Trello;
 
-  👥Frequência mínima de 80% nas reuniões ordinárias.
+  👥 Frequência mínima de 80% nas reuniões ordinárias.
