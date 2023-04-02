@@ -18,6 +18,7 @@ As nossas soluções de análise de dados utilizam as seguintes tecnologias:
 
 Para o desenvolvimento de nossos projetos utilizamos a metodologia SCRUM🏉
 
+De acordo com nossos membros definimos as formas mais eficazes para alcançar os nossos objetivos. Sendo assim,
 📜Nossas regras de cultura e organização são:
 
 -> Aprendizado e Participação ativos;
