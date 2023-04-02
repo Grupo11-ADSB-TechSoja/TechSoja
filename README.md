@@ -7,9 +7,13 @@ Somos um uma empresa que desenvolve soluções tecnológicas para o monitorament
 As nossas soluções de análise de dados utilizam as seguintes tecnologias:
 
 HTML
+
 CSS
+
 JS
+
 NODE JS
+
 SQL
 
 Para o desenvolvimento de nossos projetos utilizamos a metodologia SCRUM
