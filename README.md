@@ -1,4 +1,4 @@
-# TechSoja
+# TechSoja 🌱
 Projeto de Pesquisa e Inovação em Análise e Desenvolvimento de software no SPTech School. 
 
 
@@ -6,19 +6,19 @@ Somos um uma empresa que desenvolve soluções tecnológicas para o monitorament
 
 As nossas soluções de análise de dados utilizam as seguintes tecnologias:
 
-HTML
+🟢HTML
 
-CSS
+🟢CSS
 
-JS
+🟢JS
 
-NODE JS
+🟢NODE JS
 
-SQL
+🟢SQL
 
-Para o desenvolvimento de nossos projetos utilizamos a metodologia SCRUM
+Para o desenvolvimento de nossos projetos utilizamos a metodologia SCRUM🏉
 
-Nossas regras de cultura e organização são:
+📜Nossas regras de cultura e organização são:
 
 -> Aprendizado e Participação ativos;
 
